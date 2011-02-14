@@ -4,7 +4,7 @@
 My Rad Wiki
 ===========
 
-I think reST is the greatest ever. This is a test.
+I think reST is the greatest ever. 
 
 .. contents ::
 
@@ -18,7 +18,7 @@ Second Point
 
 This is a custom directive:
 
-.. api-ref :: dojo.query
+.. api-inline :: dojo.query
 
 Inline Examples
 ---------------
