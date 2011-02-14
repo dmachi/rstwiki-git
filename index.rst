@@ -4,8 +4,7 @@
 My Rad Wiki
 ===========
 
-I think reST is the greatest ever. Evar
-
+I think reST is the greatest ever.
 .. contents ::
 
 This is Why
