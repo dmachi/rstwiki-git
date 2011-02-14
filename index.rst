@@ -4,7 +4,7 @@
 My Rad Wiki
 ===========
 
-I think reST is the greatest ever.
+I think reST is the greatest ever. This is a test.
 
 .. contents ::
 
@@ -66,4 +66,3 @@ Some headings?
 :muchLonger: See how it aligns
 :o: My that's a short label
 :gee: This is a particularly long cell and blah blah blah blah blah blah blah.
-
