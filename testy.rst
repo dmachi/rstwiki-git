@@ -3,4 +3,4 @@
 Title
 =====
 
-Test of a new file commit.
+Test of a new file being committed.
