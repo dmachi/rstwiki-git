@@ -4,7 +4,7 @@
 My Rad Wiki
 ===========
 
-Testy. I think reST is the greatest ever. Another Test of it.testasdfasdfasdf
+Testy. I think reST is the greatest ever. Another Test of it.
 .. contents ::
 
 This is Why
